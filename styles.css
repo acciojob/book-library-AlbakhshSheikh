@@ -5,11 +5,16 @@ body {
 
 .book-library {
     background-color: #ffffff;
-    max-width: 320px;
+    width: 320px;
     margin: 20px auto;
     padding: 20px;
     border-radius: 4px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+h1 {
     text-align: center;
 }
 
